@@ -46,11 +46,11 @@ const services = [
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Data scientist",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Business And Data Analyst",
     icon: backend,
   },
   {
@@ -116,55 +116,54 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
+    title: "Data scientist",
+    company_name: "Ybi foundation",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "May 2024 - December 2024",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Applied machine learning algorithms to solve real-world problems, driving actionable insights and improvements.",
+      "Conducted in-depth exploratory data analysis (EDA), preparing and processing data for model building.",
+      "Built, trained, and optimized machine learning models, improving prediction accuracy and overall performance.",
+      "Developed interactive data visualizations to present insights and support data-driven decision-making.",
+      "Collaborated with cross-functional teams to identify business needs and deliver innovative solutions.",
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
+    title: "Python Engineer Intern",
+    company_name: "TechnoHacks EduTech Official",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "Jul 2024 -  Aug 2024",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Developed Python-based applications and scripts to automate tasks and improve efficiency.",
+      "Implemented data structures and algorithms to optimize code performance.",
+      "Wrote clean, well-structured, and maintainable Python code adhering to best practices.",
+      "Collaborated with team members to design, develop, and test Python applications.",
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Shopify",
+    title: "Freelance",
+    company_name: "Freelancer",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "March 2024 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "As a freelance Python Developer, Data Analyst, and Data Scientist, I bring a comprehensive approach to data-driven problem-solving for a wide range of clients. My expertise spans Python programming, advanced data analysis, and predictive modeling, allowing me to extract valuable insights and drive impactful decisions. Skilled in Tableau and Power BI, I design interactive, visually compelling dashboards that transform complex data into clear, actionable information. Additionally, I leverage advanced Excel techniques to streamline data processes and enhance reporting capabilities. My work focuses on understanding each client's unique needs to deliver tailored solutions that support strategic goals and continuous growth.",
+     
     ],
   },
   {
-    title: "Full stack Developer",
-    company_name: "Meta",
+    title: "Ai Engineer Intern",
+    company_name: "Yhills",
     icon: meta,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "Jan 2025 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Collaborating on innovative AI and machine learning projects, utilizing Python for data analysis, modeling, and deployment.",
+      "Developing predictive models and optimizing machine learning algorithms for real-world applications.",
+      "Enhancing skills in AI/ML frameworks, including TensorFlow, PyTorch, and Scikit-learn.",
+      "Conducting data preprocessing, feature engineering, and performance evaluation to ensure high model accuracy.",
     ],
   },
 ];
@@ -172,35 +171,35 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+      "Google Analytics Certified",
+    name: "Google Analytics",
+    Issuer: "Google",
+    Certification: "91824981",
+    image: "https://raw.githubusercontent.com/Sujaltalreja04/Terminal-Chatbot-react-app/refs/heads/main/download%20(8).png",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+      "Google Analtics IQ Certified",
+    name: "Google analytics iq",
+    
+    Id : "34049029",
+    image: "https://raw.githubusercontent.com/Sujaltalreja04/Terminal-Chatbot-react-app/refs/heads/main/download%20(9).png",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+      "Accenture Web Analyst",
+    name: "Accenture",
+    designation: "Web Analyst Certified",
+    company: "",
+    image: "https://raw.githubusercontent.com/Sujaltalreja04/Terminal-Chatbot-react-app/refs/heads/main/download%20(2).jpeg",
   },
 ];
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Image Generator",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Web-based platform that allows users to generate custom images using  on any type of prompt.",
     tags: [
       {
         name: "react",
@@ -216,49 +215,49 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/webcoder904/Ai-image-generator-web-app",
   },
   {
-    name: "Job IT",
+    name: "Virtual Mouse",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Python based dekstop application which can let you control your device with hand gestures without mouse using opencv.",
     tags: [
       {
-        name: "react",
+        name: "Python",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "OpenCV",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "AI",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Sujaltalreja04/Virtual-mouse",
   },
   {
-    name: "Trip Guide",
+    name: "",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A Python based dekstop application which can give you any information make through gui and other python library;",
     tags: [
       {
-        name: "nextjs",
+        name: "Python",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Gui",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "Applicaton",
         color: "pink-text-gradient",
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Sujaltalreja04/web-browser",
   },
 ];
 

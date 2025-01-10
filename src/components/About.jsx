@@ -47,11 +47,18 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        👋 Welcome to my profile! 🌟 I am pursuing a BScIT degree from Ganpat University, Ahmedabad 🎓, with a passion for Data Science, Business Analytics, AI, and ML. 📊🤖
+
+I specialize in transforming raw data into actionable insights and developing predictive models to solve business challenges. My toolkit includes Python, SQL, R, TensorFlow, scikit-learn, Pandas, and NumPy. I also work with data visualization tools like Tableau, Power BI, and Excel. 📊
+
+💼 My expertise includes:
+- Statistical Analysis & Business Forecasting 📈
+- Data Mining & Predictive Analytics 🛠️
+- Machine Learning Algorithms & Deep Learning Frameworks 🤖
+- Data Cleaning, Wrangling, and ETL Processes 🧹
+- Time Series Analysis & Regression Modeling ⏱️📉
+
+I aim to harness AI and analytics to optimize decision-making and drive business innovation. 🚀 Let's connect on LinkedIn and GitHub 🌍 to share insights and collaborate on exciting projects! 🚀📊
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
